@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array andor list practice", "array andor list practice\array andor list practice.csproj", "{7DC7533B-CE26-4A84-873E-E6ABC440E9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC7533B-CE26-4A84-873E-E6ABC440E9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC7533B-CE26-4A84-873E-E6ABC440E9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC7533B-CE26-4A84-873E-E6ABC440E9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC7533B-CE26-4A84-873E-E6ABC440E9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D2BFC8-5B39-4B63-88E0-287D2F00BB29}
+	EndGlobalSection
+EndGlobal
